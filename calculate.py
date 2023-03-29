@@ -1,14 +1,14 @@
-def plus(a, b):
+def add(a, b):
     return a + b
 
 
-def minus(a, b):
+def sub(a, b):
     return a - b
 
 
-def mult(a, b):
+def multiple(a, b):
     return a * b
 
 
-def div(a, b):
+def divide(a, b):
     return a / b
